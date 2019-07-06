@@ -21,7 +21,7 @@ Text File Editor made using Python. Just make copy of all the .py files or downl
 * **Stable and Working**
 * **Advanced Text Editor with Shortcut Keys**
 
-**__*Don't Forget to Star the Repo. Need to Support me Just Click that Sponsor Button*__**
+**Don't Forget to Star the Repo. Need to Support me Just Click that Sponsor Button**
 
 
 

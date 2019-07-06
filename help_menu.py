@@ -5,7 +5,7 @@ import sys
 
 class Help():
     def about(root):
-        showinfo(title="About", message="This a simple text editor implemented in Python's Tkinter")
+        showinfo(title="About", message="This a simple text editor implemented in Python's Tkinter. Author=PrabaRock7.")
 
 
 def main(root, text, menubar):
